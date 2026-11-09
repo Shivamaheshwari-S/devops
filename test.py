@@ -1,4 +1,4 @@
 print("vvce")
 print("mysore")
 print("CSE")
-print("EC")
+print("Electronics")
